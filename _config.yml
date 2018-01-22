@@ -3,7 +3,7 @@ title: My Resume
 baseurl: '/online-cv' #change it according to your repository name
 
 # Enable one of these styles by removing #. Style will be applied only after restarting the build or serve.
-#style: styles-2
+style: styles-2
 #style: styles-3
 #style: styles-4
 #style: styles-5
@@ -13,10 +13,8 @@ baseurl: '/online-cv' #change it according to your repository name
 name: Ena Urbina
 tagline: Course Developer Student Assistant
 pic: photo1.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: 'Summarise your career here lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-You can <a href="#" target="_blank">download this free resume/CV template here</a>. Aenean
-commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient
-montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.'
+summary: 'My name is Ena and I am a Course Developer for Florida International University Online. My
+work requires a great deal time management, creativity and attention to detail.'
 
 #sidebar links
 email: eurbi012@fiu.edu
